@@ -1,6 +1,6 @@
 #!/bin/bash
 # ------------------------------------------------------------------
-# nAvTV Ark Survival Evolved world backup and update by Aerico
+# Ark Survival Evolved world backup and update by Aerico
 # ------------------------------------------------------------------
 #
 # We're going to do a backup, then update the Ark Survival Evolved Linux Dedicated server.
@@ -9,8 +9,6 @@
 #
 #
 # Now some system binaries...
-TAR="$(which tar)"
-GZIP="$(which gzip)"
 ZIP="$(which zip)"
 #
 # Just to make the backup a bit neater, we'll add the date to the archive...
