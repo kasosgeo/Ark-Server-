@@ -1,6 +1,6 @@
 #!/bin/bash
 # ------------------------------------------------------------------
-# Ark Survival Evolved world backup and update by Aerico
+# Ark Survival Evolved world backup and update by Aerico DonDonDouk
 # ------------------------------------------------------------------
 #
 # We're going to do a backup, then update the Ark Survival Evolved Linux Dedicated server.
